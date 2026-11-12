@@ -2,7 +2,7 @@
 
 Static, dependency-free portfolio site (HTML + CSS + vanilla JS).
 
-##Public Preview
+## Public Preview
 Go to: 
 https://alessandrobellassaidigitalportfolio.netlify.app/
 
